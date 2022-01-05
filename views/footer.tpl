@@ -1,0 +1,1 @@
+<p> &copy; 2015 - <a href="#" id="dev"><strong>Bottlepy</strong></a></p>
